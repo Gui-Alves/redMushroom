@@ -6,4 +6,5 @@ public class GrowState : ScriptableObject
 {
     public Sprite sprite;
     public int probability;
+    public Color color;
 }
